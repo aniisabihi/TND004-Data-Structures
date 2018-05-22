@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1525787333 source:/Users/aniisabihi/Documents/Datastrukturer_labb3/test1.cpp
+	<iostream>
+	<vector>
+	"BinarySearchTree.h"
+
+1525787921 /Users/aniisabihi/Documents/Datastrukturer_labb3/BinarySearchTree.h
+	"dsexceptions.h"
+	<algorithm>
+	<string>
+
+1121289504 /Users/aniisabihi/Documents/Datastrukturer_labb3/dsexceptions.h
+
+1525434904 source:/Users/aniisabihi/Documents/Datastrukturer_labb3/test2.cpp
+	<iostream>
+	<vector>
+	"BinarySearchTree.h"
+
+1525787288 source:/Users/aniisabihi/Documents/Datastrukturer_labb3/test3.cpp
+	<iostream>
+	<vector>
+	<iterator>
+	<fstream>
+	"BinarySearchTree.h"
+

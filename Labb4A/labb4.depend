@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1398938136 source:/Users/aniisabihi/Documents/labb4/list.cpp
+	<iostream>
+	<iomanip>
+	"list.h"
+
+1398938136 /Users/aniisabihi/Documents/labb4/list.h
+
+1398938142 source:/Users/aniisabihi/Documents/labb4/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"digraph.h"
+
+1526390933 /Users/aniisabihi/Documents/labb4/digraph.h
+	"list.h"
+
+1526390282 source:/Users/aniisabihi/Documents/labb4/digraph.cpp
+	<iostream>
+	<iomanip>
+	<cassert>
+	"digraph.h"
+	"queue.h"
+
+1398937838 /Users/aniisabihi/Documents/labb4/queue.h
+	<cassert>
+

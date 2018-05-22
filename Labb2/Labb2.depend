@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523551654 source:/Users/aniisabihi/Documents/Datastrukturer_Labb2/main.cpp
+	<iostream>
+	<iomanip>
+	"set.h"
+
+1523526718 /Users/aniisabihi/Documents/Datastrukturer_Labb2/set.h
+	<iostream>
+	<utility>
+
+1523810875 source:/Users/aniisabihi/Documents/Datastrukturer_Labb2/set.cpp
+	"set.h"
+
